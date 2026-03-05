@@ -6,6 +6,6 @@ I care about clean code, pixel-perfect UIs, and experiences that feel right.
 
 For all inquiries, please contact me via email or social media.
 
-📫 aibek.jumabek01 [at] gmail [dot] com
+📫 aibek [at] aibekjumabek [dot] com
 
 💻 run `npx aibek` in your terminal
