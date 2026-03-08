@@ -1,6 +1,6 @@
 ## Hey, I'm Aibek 👋
 
-I'm a software engineer specializing in full-stack and front-end web development.
+I'm a software engineer specializing in full-stack web development.
 
 I care about clean code, pixel-perfect UIs, and experiences that feel right.
 
