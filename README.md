@@ -1,8 +1,6 @@
-## Hey, I'm Aibek 👋
+## Hey, I'm Aibek Jumabek👋
 
 I'm a software engineer specializing in full-stack web development.
-
-I care about clean code, pixel-perfect UIs, and experiences that feel right.
 
 For all inquiries, please contact me via email or social media.
 
