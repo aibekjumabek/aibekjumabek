@@ -1,9 +1,20 @@
-## Hey, I'm Aibek Jumabek👋
+# Hey, I'm Aibek Jumabek 👋
 
-I'm a software engineer specializing in full-stack web development.
+I'm a software engineer specializing in full-stack web development. I enjoy building products that are fast, reliable, and easy to use.
 
-For all inquiries, please contact me via email or social media.
+## Connect
 
-📫 aibek [at] aibekjumabek [dot] com
+- 📫 Email: aibek [at] aibekjumabek [dot] com
+- 💻 Interactive resume: `npx aibek`
 
-💻 run `npx aibek` in your terminal
+## Tech Stack
+
+**Frontend:** JavaScript / TypeScript · React · HTML & CSS
+
+**Backend:** Node.js · REST APIs · Databases
+
+**Tools:** Git · Docker · CI/CD
+
+---
+
+*Open to interesting projects and collaborations. Feel free to reach out!*
