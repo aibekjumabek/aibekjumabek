@@ -23,4 +23,5 @@ Based in **Dallas, Texas**.
 ## Connect
 
 - 📫 aibek [at] aibekjumabek [dot] com
+- 💼 [linkedin.com/in/aibekjumabek](https://linkedin.com/in/aibekjumabek)
 - 💻 Interactive resume: `npx aibek`
