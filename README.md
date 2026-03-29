@@ -1,4 +1,4 @@
-# Hey, I'm Aibek Jumabek 👋
+# Hello, I'm Aibek Jumabek 👋
 
 I'm a software engineer with 6+ years of experience building full-stack web applications. I've worked across fintech and education — most recently as a Software Engineer II at **JP Morgan Chase**, where I built financial dashboards and micro-frontend systems at scale. I care about performance, accessibility, and clean, maintainable code.
 
